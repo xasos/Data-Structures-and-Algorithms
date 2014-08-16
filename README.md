@@ -9,3 +9,6 @@ I have tried to make each example as clear and possible to understand the concep
 ## Concepts
 * [Sorts](sorts)
 * [Trees](trees)
+
+## License
+[MIT License](LICENSE)

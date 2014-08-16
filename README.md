@@ -8,7 +8,7 @@ I have tried to make each example as clear and possible to understand the concep
 
 ## Concepts
 * [Sorts](sorts)
-  Bubble Sort
+  * Bubble Sort
 * [Trees](trees)
 
 ## License

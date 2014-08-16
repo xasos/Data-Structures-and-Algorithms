@@ -15,6 +15,7 @@ I have tried to make each example as clear and possible to understand the concep
   * [Merge Sort](Sorts/merge.java)
 * [Trees](Trees)
 * [Searches](Searches)
+  * [Binary Search](Searches/binary.java)
 * [Stacks](Stacks)
 
 ## License

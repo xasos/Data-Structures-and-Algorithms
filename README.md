@@ -14,6 +14,8 @@ I have tried to make each example as clear and possible to understand the concep
   * [Quicksort](Sorts/quicksort.java)
   * [Merge Sort](Sorts/merge.java)
 * [Trees](Trees)
+* [Searches](Searches)
+* [Stacks](Stacks)
 
 ## License
 [MIT License](LICENSE)

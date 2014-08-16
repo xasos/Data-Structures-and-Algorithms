@@ -17,12 +17,12 @@ public class BubbleSort {
         //Apply Bubble Sort
         while(flag) {
             flag = false;
-            for (int i = 0; i < (nums.length-1); i++) {
+            for (int i = 0; i < (nums.length-1); i++) { //If for loop is entered, the array is not sorted yet
                 if (nums[i+1] < nums[i]) {
                     temp = nums[i+1];
                     nums[i+1] = nums[i];
                     nums[i] = temp;
-                    flag = true;
+                    flag = true; //This signals to rerun the while loop until fully sorted
                 }            
             }   
         } 

@@ -7,8 +7,8 @@ Data Structures and Algorithms in Java.
 I have tried to make each example as clear and possible to understand the concepts.
 
 ## Concepts
-* [Sorts](sorts)
-  * [Bubble Sort](sorts/bubble.java)
+* [Sorts](Sorts)
+  * [Bubble Sort](Sorts/bubble.java)
   * [Selection Sort](sorts/selection)
 * [Trees](trees)
 

@@ -14,12 +14,13 @@ public class SelectionSort {
         // apply selection sort
         for (int i = 0; i < nums.length; i++) {
             first = i; // change starting point every time loop is entered
-            for (int j = i; j < nums.length; j++) {
+            for (int j = i; j < nums.length; j++) { // essentially, we are finding the minimum
                 if (nums[first] > nums[j]) {
                     first = j;
                 }
             }     
             
+            //swap first element in the array that is unsorted with lowest value in array
             temp = nums[i];
             nums[i] = nums[first];
             nums[first] = temp;            

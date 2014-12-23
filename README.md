@@ -20,7 +20,7 @@ I have tried to make each example as clear and possible to understand the concep
   * [Binary Search](Searches/binary.java)
   * [Linear Search](Searches/linear.java)
 * [Stacks](Stacks)
-  * [Arrays](Stacks/array.java)
+  * [Arrays](Stacks/arrays.java)
   * [Linked Lists](Stacks/linkedlist.java)
 
 ## License

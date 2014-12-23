@@ -3,6 +3,8 @@ Data-Structures-and-Algorithms
 
 Data Structures and Algorithms in Java.
 
+**NOTICE**: Not complete, under gradual development.
+
 ## Approach
 I have tried to make each example as clear and possible to understand the concepts. Feel free to submit a PR/issue if any concept is unclear and could be made clearer.
 

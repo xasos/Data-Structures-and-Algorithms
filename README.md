@@ -1,12 +1,12 @@
 Data-Structures-and-Algorithms
 ==============================
 
-Data Structures and Algorithms in Java.
+Various Data Structures and Algorithms implemented in Java.
 
 **NOTICE**: Not complete, under gradual development.
 
 ## Approach
-I have tried to make each example as clear and possible to understand the concepts. Feel free to submit a PR/issue if any concept is unclear and could be made clearer.
+I have tried to make each example as clear as possible to understand the concepts. Feel free to submit a PR/issue if any concept could be made clearer.
 
 ## Concepts
 * [Sorts](Sorts)

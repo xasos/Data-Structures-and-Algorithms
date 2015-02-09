@@ -31,6 +31,8 @@ I have tried to make each example as clear as possible to understand the concept
 * [Searches](Searches)
   * [Binary Search](Searches/binary.java)
   * [Linear Search](Searches/linear.java)
+  * [Depth-first search](Searches/dfs.java)
+  * [Breadth-first search](Searches/bfs.java)
 
 ## License
 [MIT License](LICENSE)

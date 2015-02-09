@@ -10,11 +10,14 @@ I have tried to make each example as clear as possible to understand the concept
 
 ## Data Structures
 * [Stacks](Stacks)
-  * [Arrays](Stacks/arrays.java)
-  * [Linked Lists](Stacks/linkedlist.java)
+  * [Arrays](Stacks/stackArray.java)
+  * [Linked Lists](Stacks/stackLinkedlist.java)
 * [Queues](Queues)
+  * [Arrays](Stacks/queueArray.java)
+  * [Linked Lists](Stacks/queueLinkedlist.java)
 * [Trees](Trees)
 * [Graphs](Graphs)
+* [Heaps](Heaps)
 * [Maps](Maps)
 * [Tries](Tries)
 

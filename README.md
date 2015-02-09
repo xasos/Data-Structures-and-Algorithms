@@ -19,7 +19,7 @@ I have tried to make each example as clear as possible to understand the concept
 * [Tries](Tries)
 
 ## Algorithms
-  * [Sorts](Sorts)
+* [Sorts](Sorts)
   * [Bubble Sort](Sorts/bubble.java)
   * [Insertion Sort](Sorts/insertion.java)
   * [Selection Sort](Sorts/selection.java)

@@ -25,7 +25,6 @@ I have tried to make each example as clear as possible to understand the concept
   * [Selection Sort](Sorts/selection.java)
   * [Quicksort](Sorts/quicksort.java)
   * [Merge Sort](Sorts/merge.java)
-
 * [Searches](Searches)
   * [Binary Search](Searches/binary.java)
   * [Linear Search](Searches/linear.java)

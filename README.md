@@ -26,7 +26,7 @@ I have tried to make each example as clear as possible to understand the concept
   * [Bubble Sort](Sorts/bubble.java)
   * [Insertion Sort](Sorts/insertion.java)
   * [Selection Sort](Sorts/selection.java)
-  * [Quicksort](Sorts/quicksort.java)
+  * [Quicksort](Sorts/quick.java)
   * [Merge Sort](Sorts/merge.java)
 * [Searches](Searches)
   * [Binary Search](Searches/binary.java)
